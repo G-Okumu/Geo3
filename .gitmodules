@@ -1,0 +1,3 @@
+[submodule "django"]
+	path = django
+	url = https://github.com/G-Okumu/Geo3.git
